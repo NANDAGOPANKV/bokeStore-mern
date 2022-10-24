@@ -1,0 +1,5 @@
+add functions for all items 
+add product
+update product
+delete product 
+click get id show product
